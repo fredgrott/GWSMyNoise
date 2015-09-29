@@ -6,10 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/gwscolours/gwscolours.iml" filepath="$PROJECT_DIR$/gwscolours/gwscolours.iml" />
       <module fileurl="file://$PROJECT_DIR$/gwsindiaink/gwsindiaink.iml" filepath="$PROJECT_DIR$/gwsindiaink/gwsindiaink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gwsminiequalizer/gwsminiequalizer.iml" filepath="$PROJECT_DIR$/gwsminiequalizer/gwsminiequalizer.iml" />
       <module fileurl="file://$PROJECT_DIR$/gwsottoutils/gwsottoutils.iml" filepath="$PROJECT_DIR$/gwsottoutils/gwsottoutils.iml" />
       <module fileurl="file://$PROJECT_DIR$/gwsrippledecoview/gwsrippledecoview.iml" filepath="$PROJECT_DIR$/gwsrippledecoview/gwsrippledecoview.iml" />
       <module fileurl="file://$PROJECT_DIR$/gwssystemui/gwssystemui.iml" filepath="$PROJECT_DIR$/gwssystemui/gwssystemui.iml" />
       <module fileurl="file://$PROJECT_DIR$/gwsutil/gwsutil.iml" filepath="$PROJECT_DIR$/gwsutil/gwsutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gwsvisualizer/gwsvisualizer.iml" filepath="$PROJECT_DIR$/gwsvisualizer/gwsvisualizer.iml" />
       <module fileurl="file://$PROJECT_DIR$/gwszdepthshadow/gwszdepthshadow.iml" filepath="$PROJECT_DIR$/gwszdepthshadow/gwszdepthshadow.iml" />
     </modules>
   </component>
