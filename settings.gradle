@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':gwssystemui', ':gwsindiaink', ':gwscolours', ':gwsottoutils', ':gwsrippledecoview', ':gwszdepthshadow', ':gwsutil'

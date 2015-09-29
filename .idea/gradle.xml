@@ -11,6 +11,13 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/gwscolours" />
+            <option value="$PROJECT_DIR$/gwsindiaink" />
+            <option value="$PROJECT_DIR$/gwsottoutils" />
+            <option value="$PROJECT_DIR$/gwsrippledecoview" />
+            <option value="$PROJECT_DIR$/gwssystemui" />
+            <option value="$PROJECT_DIR$/gwsutil" />
+            <option value="$PROJECT_DIR$/gwszdepthshadow" />
           </set>
         </option>
       </GradleProjectSettings>
